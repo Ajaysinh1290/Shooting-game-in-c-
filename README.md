@@ -1,4 +1,4 @@
-# Car Racing game in C language
+# Shooting game in C language
 
 # Youtube Demo
 
